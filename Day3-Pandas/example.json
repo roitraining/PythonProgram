@@ -1,0 +1,7 @@
+{ "name":"jayne",
+  "role":"sales",
+  "customers" :
+     [{"name":"Andersons","product":"Bosch","quantity":100},
+      {"name":"ElectricalDirect","product":"Miele", "quantity":200}
+     ]
+}
